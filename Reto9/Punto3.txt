@@ -1,0 +1,19 @@
+3) Responda: ¿Que utilidad considera que tiene aplicar uno u otro de 
+los dos metodos anteriores?
+
+Respuesta:  La ultilidad que tiene el primer metodo: lectura linea a linea
+es que la podemos usar en textos planos cuando sabemos que los tenemos que 
+recorrer por completo, cuando no nos importa la cantidad de caracteres
+que tengan las lineas con respecto a otras, para el analisis indiscriminado de 
+grandes textos se puede aplicar. (analisis de precios, parrafos, 
+nombres, edades, direcciones, numeros de documentos, peso, dias de la semana,
+entre otras)
+
+La utilidad que tiene el segundo metodo: lectura Random: podemos aplicar este 
+metodo cuando solo necesitamos analizar algunas lineas en lugar de todas 
+las lineas y adicional tambien si sabemos que los datos a analizar tienen la 
+misma cantidad de caracteres. lo podemos aplicar en(numero de celular locales,
+fechas, altura de una persona (en la misma unidad de medida), notas academicas
+en formato entero o con igual cantidad de decimales, placas de carros), en caso de 
+las lineas no tener la misma cantidad de caracteres debemos usar el primer metodo.
+

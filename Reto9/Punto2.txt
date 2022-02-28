@@ -1,0 +1,4 @@
+El punto 2 no puede ser solucionado con lectura random ya que para que
+esto sea posible las lineas deben tener igual cantidad de caracteres 
+y en nuestra base de datos la linea con fecha 21-01-11 tiene un caracter 
+adicional a los otros datos, analizando las lineas cada 5 saltos.
